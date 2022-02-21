@@ -1,8 +1,9 @@
-## Welcome to Hideki-Palett Website
+## Welcome to Hideki-Palett Website.
 
-You can use the [editor on GitHub](https://github.com/22hideki22/Hideki-Palett/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Created By hideki with the help of Sargeant Quint.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site was created for you who want to have a computer in Garry's mod, here you can Buy a Computer without using real money!                           
+You can also swap your old computer for a new and good one!
 
 ### Markdown
 
