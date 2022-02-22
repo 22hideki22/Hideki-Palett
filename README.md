@@ -14,7 +14,7 @@ such as:
 - Computers (Gamers Computers too) 
 - RAM, CPU, Motherboard and others.
 
-For more details see [HIP Products] ().
+For more details see [HIP Products info] ().
 
 ### Not Finished
 
