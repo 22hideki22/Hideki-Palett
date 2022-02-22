@@ -19,5 +19,5 @@ For more details see [HIP Products] ().
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/22hideki22/Hideki-Palett/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support And Problems.
-Having Some Problems with our site?
-Want talk with support for some Question?
+Having Some Problems with our site? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues)
+Want talk with support for some Question? Click [Here]
