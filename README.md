@@ -14,11 +14,11 @@ such as:
 - Computers (Gamers Computers too) 
 - RAM, CPU, Motherboard and others.
 
-For more details see [HIP Products info] ().
+For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing).
 
 ### Want Buy Something?
 Click [Here] () For Computers
-Click [Here] () For Parts Of Computers and Other.
+Click [Here] ()For Parts Of Computers and Other.
 
 ### Support And Problems.
 - Having Some Problems with our site? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues)
