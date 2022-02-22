@@ -6,10 +6,10 @@ This site was created for you who want to have a computer in Garry's mod, here y
 You can also swap your old Gmod computer for a new and good one!
 
 ### What is Hideki-Palett?
-- 1.Hideki-Palett (HIP)
-- 2.is a mini company that creates and sells Electronic Appliances and their parts
-- 3.For Garry's mod Players.
-- 4.such as: 
+1. Hideki-Palett (HIP)
+2. is a mini company that creates and sells Electronic Appliances and their parts
+3. For Garry's mod Players.
+4. such as: 
 
 - Computers (Gamers Computers too) 
 - RAM, CPU, Motherboard and others.
