@@ -15,13 +15,13 @@ You can also swap your old Gmod computer for a new and good one!
 - RAM, CPU, Motherboard and others.
 - Free Operational System Pendrive.
 
-For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing).
+For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing)
 
 ### Want Buy Something?
 ![Example](https://user-images.githubusercontent.com/87248365/155231257-af680925-3f5a-41dc-8490-96d818b2120f.png)
-- Click [Here] ()For Computers
+- Click [Here] ()For Computers.
 - Click [Here] ()For Parts Of Computers and Other.
 
 ### Support And Problems.
-- Having Some Problems with our site? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues)
-- Want talk with support for some Question? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues)
+- Having Some Problems with our site? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues).
+- Want talk with support for some Question? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues).
