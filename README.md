@@ -16,7 +16,7 @@ such as:
 
 For more details see [HIP Products info] ().
 
-### Not Finished
+### Start See/Buy The Computers [Here] ()
 
 ### Support And Problems.
 - Having Some Problems with our site? Click [Here](https://github.com/22hideki22/Hideki-Palett/issues)
