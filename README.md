@@ -2,8 +2,8 @@
 
 Created By hideki with the help of Sargeant Quint.
 
-This site was created for you who want to have a computer in Garry's mod, here you can Buy a Computer without using real money!                           
-You can also swap your old computer for a new and good one!
+This site was created for you who want to have a computer in Garry's mod, here you Buy a Computer using real money!                           
+You can also swap your old Gmod computer for a new and good one!
 
 ### What is Hideki-Palett?
 1.Hideki-Palett (HIP)
