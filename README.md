@@ -17,7 +17,8 @@ such as:
 For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing).
 
 ### Want Buy Something?
-![Example](file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/GarrysMod/garrysmod/screenshots/backrooms0006.jpg)
+![Example](https://user-images.githubusercontent.com/87248365/155229413-166e28af-4ab8-484a-9cc5-41533658b07d.png)
+
 - Click [Here] ()For Computers
 - Click [Here] ()For Parts Of Computers and Other.
 
