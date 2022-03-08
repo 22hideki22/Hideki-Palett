@@ -2,7 +2,7 @@
 
 Created By hideki with the help of Sargeant Quint.
 
-This site was created for you who want to have a computer in Garry's mod, here you Buy a Computer using real Money, or Trading!                           
+This site was created for you who want to have a computer in Garry's mod, here you Buy a Computer using real Money(Pix), or Trading!                           
 You can also swap your old Gmod computer for a new and good one!
 
 ### What is Hideki-Palett?
