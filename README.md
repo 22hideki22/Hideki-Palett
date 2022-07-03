@@ -11,9 +11,9 @@ You can also swap your old Gmod computer for a new and good one!
 3. For Garry's mod Players.
 4. such as: 
 
-- Computers (Gamers Computers too) 
+- Computers (Gaming Computers too) 
 - RAM, CPU, Motherboard and others.
-- Free Operational System Pendrive.
+- Free Operational System pendrive/disk.
 
 For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing)
 
