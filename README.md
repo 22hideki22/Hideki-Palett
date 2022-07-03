@@ -19,7 +19,7 @@ For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_
 
 ### Want Buy Something?
 ![Example](https://user-images.githubusercontent.com/87248365/155231257-af680925-3f5a-41dc-8490-96d818b2120f.png)
-- Click [Here](https://22hideki22.github.io/Hideki-Palett-Shop/)For Computers.
+- Click [Here](https://22hideki22.github.io/Hideki-Palett-Shop/) For Computers.
 - Click [Here] ()For Parts Of Computers and Other.
 
 ### Support And Problems.
