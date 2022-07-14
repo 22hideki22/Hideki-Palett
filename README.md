@@ -26,4 +26,3 @@ For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_
 
 ### Support And Problems.
 - Having Some Problems?[Here](https://github.com/22hideki22/Hideki-Palett/issues).
-- Want talk with support for some Question?[Here](https://github.com/22hideki22/Hideki-Palett/issues).
