@@ -18,7 +18,7 @@ You can also swap your old Gmod computer for a new and good one!
 For more details see [HIP Products info](https://drive.google.com/file/d/1rVqZx_lewzxuUqamVHZojZvIIxADxJjT/view?usp=sharing)
 
 ### Want Buy Something?
-![Example](https://user-images.githubusercontent.com/87248365/155231257-af680925-3f5a-41dc-8490-96d818b2120f.png)
+![Example](file:///C:/Users/faces/OneDrive/Imagens/Saved%20Pictures/AFDK90.jpg)
 - Click [Here](https://22hideki22.github.io/Hideki-Palett-Shop/) For Computers.
 - Click [Here] ()For Parts Of Computers and Other.
 
